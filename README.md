@@ -12,7 +12,10 @@ a1 |a2|a3
 B1| B2|B3
 
 
+
+![nav](https://github.com/sun816/sun816.github.io/blob/main/cache/nav.png)
 navigate link [**Navigate link** ](https://nav.bajinxianshen.cf).
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
